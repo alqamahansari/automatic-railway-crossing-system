@@ -128,10 +128,6 @@ automatic-railway-crossing-system/
 ├── Automatic_Railway_Crossing_System.ino
 ├── README.md
 ├── circuit-diagram.png
-├── images/
-│   ├── prototype.jpg
-│   ├── working1.jpg
-│   └── working2.jpg
 └── LICENSE
 ```
 
